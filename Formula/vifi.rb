@@ -3,8 +3,8 @@ class Vifi < Formula
 
   desc "Universal voice layer for AI coding agents, MCP, and macOS"
   homepage "https://voicefi.org"
-  url "https://github.com/atxatlarge-code/voicefi/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "c6da8ee2f884983606f4c41775a00827f5eee53f280259017d5328a32c3840c1"
+  url "https://github.com/atxatlarge-code/voicefi/archive/refs/tags/v0.2.1.tar.gz"
+  sha256 "2ee0fff329aa61b58ffd43e932fbe503dbb72f0faa59882ae06f95c9f5f23e94"
   license "MIT"
   head "https://github.com/atxatlarge-code/voicefi.git", branch: "main"
 
